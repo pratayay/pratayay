@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm currently working on ML Project on threat detection for bind people in python.<br>Looking to learn and collaborate on Machine Learning Projects.<br>Currently Learning Tensorflow and applying it on projects.<br>Ask me about my projects and query related to python.<br>Fun fact: Most machine learning models spend more time learning from data quality than from complex algorithms—clean data consistently outperforms clever code.
+
+🧠 **Machine Learning Project**  
+Working on a **Python-based ML threat detection system for visually impaired users**.
+
+📘 **Currently Learning**  
+TensorFlow and applying deep learning techniques to real-world projects.
+
+🤝 **Collaboration**  
+Open to collaborating on Machine Learning and AI projects.
+
+💬 **Ask Me About**  
+Python, Machine Learning, and my ongoing projects.
+
 
 
 ## 🌐 Socials:
